@@ -2,15 +2,17 @@
 
 ## AIM
 
-To develop a neural network regression model for the given dataset.
+ We aim to develop a neural network regression model that can take input features and predict the target output.
 
 ## THEORY
 
-Explain the problem statement
+The given dataset contains a set of input values (x) and corresponding output values (y). Our task is to use these data points to train a neural 
+network that can generalize to predict y values for new, unseen x inputs.
 
 ## Neural Network Model 
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/66f5299a-0610-4f72-82c7-a96ca2104cfc)
+
 
 ## DESIGN STEPS
 
@@ -43,8 +45,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: Meetha Prabhu
+### Register Number: 212222240065
 ```python
 import tensorflow as tf
 from tensorflow import keras
